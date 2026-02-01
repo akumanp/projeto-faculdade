@@ -25,7 +25,4 @@ O foco do projeto é **aprendizado**, não segurança real. **Realizei esse proj
 
 Você só precisa ter o **Python 3** instalado.
 
-```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
-python main.py
+
